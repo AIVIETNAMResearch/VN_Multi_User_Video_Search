@@ -1,4 +1,5 @@
 # Multi-User Video Search: Bridging the Gap Between Text and Embedding Queries
+[Khai Trinh Xuan](https://github.com/trinhxuankhai), [Nguyen Nguyen Khoi](https://github.com/nguyen-brat), [Huy Luong-Quang](https://github.com/WMumei), [Sang Hoa-Xuan](https://github.com/HXSang), [Anh Nguyen-Luong-Nam](https://github.com/namanh2k2av), [Minh-Hung An](https://github.com/anminhhung)
 
 ## Pipeline
 <img src="./figs/pipeline.jpg" alt="image" style="zoom:50%;" />
@@ -23,7 +24,7 @@ Dataset structure:
 ### Dict
 Download dict zip file: [dict](https://drive.google.com/file/d/1pjArVhbXljkpCLpFGg71rh2yzwXGeJWi/view?usp=sharing)
 
-### Vector embeddings:
+### Vector embeddings
 Download bin file: 
    - [faiss_clip_cosine.bin](https://drive.google.com/file/d/1_3Z-iR5b3cT-QAfY6u1oUf9__YNju4m1/view?usp=sharing)
    - [faiss_clipv2_cosine.bin](https://drive.google.com/file/d/1CZDLrRlOK7jmvTc-p6jARR4BA6PSA61M/view?usp=sharing)
