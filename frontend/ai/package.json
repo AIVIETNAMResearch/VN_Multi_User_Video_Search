@@ -1,0 +1,37 @@
+{
+  "name": "ai",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://3abc-34-147-49-99.ngrok-free.app",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.16",
+    "@headlessui/tailwindcss": "^0.2.0",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.11",
+    "lib": "^5.0.1",
+    "next": "^13.4.11",
+    "postcss": "8.4.27",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-gesture-responder": "^2.1.0",
+    "react-grid-dnd": "^2.1.2",
+    "react-hook-speech-to-text": "^0.8.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.10.1",
+    "react-tooltip": "^5.18.1",
+    "socket.io-client": "^4.7.2",
+    "tailwindcss": "3.3.3",
+    "trie-prefix-tree": "^1.5.1",
+    "typescript": "5.1.6"
+  }
+}
