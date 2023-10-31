@@ -17,3 +17,4 @@ Prepare data directory as:
 - Keyframe extraction: [transnet](transnet/README.md)
 - Audio extraction: [audio](audio/README.md)
 - Metadata extraction: [metadata](metadata/README.md)
+- Run [data_preparation.ipynb](./data_preparation.ipynb)
