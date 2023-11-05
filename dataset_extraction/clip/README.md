@@ -1,6 +1,6 @@
-# Keyframe extraction
-- Run [transnetv2.ipynb](./transnetv2.ipynb) to extract shots from videos.
-- Run [cutframe.ipynb](./cutframe.ipynb) to extract keyframes from shots.
+# Keyframe vector embeddings extraction
+- Run [clip.ipynb](./clip.ipynb) for CLIP from [openai](https://github.com/openai/CLIP).
+- Run [clipv2.ipynb](./clipv2.ipynb) for CLIP from [open_clip](https://github.com/mlfoundations/open_clip).
 
 ## Input directory:
 ```
