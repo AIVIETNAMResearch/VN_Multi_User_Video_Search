@@ -1,6 +1,8 @@
 # Multi-User Video Search: Bridging the Gap Between Text and Embedding Queries
 [Khai Trinh Xuan](https://github.com/trinhxuankhai), [Nguyen Nguyen Khoi](https://github.com/nguyen-brat), [Huy Luong-Quang](https://github.com/WMumei), [Sang Hoa-Xuan](https://github.com/HXSang), [Anh Nguyen-Luong-Nam](https://github.com/namanh2k2av), [Minh-Hung An](https://github.com/anminhhung)
 
+**SOICT 2023** [[`Paper`](https://dl.acm.org/doi/10.1145/3628797.3628957)]
+
 ## Pipeline
 <img src="./figs/pipeline.jpg" alt="image" style="zoom:50%;" />
 
