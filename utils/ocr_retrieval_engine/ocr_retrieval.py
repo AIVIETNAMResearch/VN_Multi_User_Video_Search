@@ -15,7 +15,7 @@ def GET_PROJECT_ROOT():
     # goto the root folder of LogBar
     current_abspath = os.path.abspath(__file__)
     while True:
-        if os.path.split(current_abspath)[1] == 'AIChallenge2023':
+        if os.path.split(current_abspath)[1] == 'VN_Multi_User_Video_Search':
             project_root = current_abspath
             break
         else:
