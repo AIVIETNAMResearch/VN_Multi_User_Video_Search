@@ -116,4 +116,24 @@ ngrok http 5000
 - ### Interface
 <img src="./figs/interface.jpg" alt="image" style="zoom:50%;" />
 
-
+## Citation
+If you have any questions, please leave an issue or contact us: trinhxuankhai2310@gmail.com
+```
+@inproceedings{10.1145/3628797.3628957,
+author = {Trinh Xuan, Khai and Nguyen Khoi, Nguyen and Luong-Quang, Huy and Hoa-Xuan, Sang and Nguyen-Luong-Nam, Anh and An, Minh-Hung and Nguyen, Hong-Phuc},
+title = {Multi-User Video Search: Bridging the Gap Between Text and Embedding Queries},
+year = {2023},
+isbn = {9798400708916},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3628797.3628957},
+doi = {10.1145/3628797.3628957},
+abstract = {Video search is a crucial task in the modern era, as the rapid growth of video platforms has led to an exponential increase in the number of videos on the internet. Effective video management is therefore essential. Significant research has been conducted on video search, with most approaches leveraging image-text retrieval or searching by object, speech, color, and text in images. However, these approaches can be inefficient when multiple users search for the same query simultaneously, as they may overlap in their search spaces. Additionally, most video search systems do not support complex queries that require information from multiple frames in a video. In this paper, we propose a solution to these problems by splitting the search space for different users and ignoring images that have already been considered by other users to avoid redundant searches. To address complex queries, we split the query and apply a technique called forward and backward search.},
+booktitle = {Proceedings of the 12th International Symposium on Information and Communication Technology},
+pages = {923–930},
+numpages = {8},
+keywords = {embedding-based search, interactive video retrieval, multi-user search engine, multimedia and multimodal retrieval, text-based search},
+location = {Ho Chi Minh, Vietnam},
+series = {SOICT '23}
+}
+```
